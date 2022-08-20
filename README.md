@@ -1,6 +1,6 @@
 # txtgen-deta
 
-Demonstrate how to deploy txtgen service to Deta cloud
+Demonstrate how to deploy [txtgen](https://github.com/ndaidong/txtgen) service to Deta cloud
 
 [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/ndaidong/txtgen-deta)
 
